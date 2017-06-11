@@ -1,0 +1,14 @@
+.change {
+    list-style-type: none;
+} 
+.school {
+    background-color:#5fc976;
+    color:purple;
+    padding:0px;
+    margin:6px;
+    border:9px;
+    border-radius:10px;
+    width:15px;
+    height:20px;
+}
+.school:hover {background-color:#3dffeb;}
